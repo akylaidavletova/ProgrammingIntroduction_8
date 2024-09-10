@@ -1,5 +1,6 @@
 ﻿// All .NET programs begin with the main method, but with .NET 6 they removed the need for Main function
 
+#comment added from Akylai to check commit
 using System.Diagnostics;
 
 
